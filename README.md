@@ -6,7 +6,7 @@ SOFIA model intercomparison with prescribed meltwater experiments to improve und
 
 Analysis focuses on quantifying the magnitude of the air temperature and precipitation response over Australia and the physical drivers linking the polar ocean with extratropical atmospheric change.
 
-SOFIA *antwater* experiment included from the following models:
+SOFIA *antwater* experiment included for the following models:
 - access-esm1-5
 - canesm5
 - cesm2
