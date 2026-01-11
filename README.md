@@ -16,3 +16,11 @@ SOFIA *antwater* experiment included for the following models:
 - giss-e2-1-g
 - hadgem3-gc31-ll
 
+Some research questions:
+- Does variability in tropical Pacific change and does it have an impact on Australia?
+- Patterns of change:
+  - is it model dependent or vary between ensembles?
+  - does each model warm and cool the same way when compared with ssp585 runs? (I.e. is the antwater response the "opposite" to the warming response?)
+- Comparison of antwater response to climate sensitivity of each model.
+- How does the cooling over Australia relate to the cooling response over the Southern Ocean? (larger cooling for stronger SO response?)
+- Seasonal and regional response.
