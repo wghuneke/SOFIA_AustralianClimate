@@ -6,21 +6,16 @@ SOFIA model intercomparison with prescribed meltwater experiments to improve und
 
 Analysis focuses on quantifying the magnitude of the air temperature and precipitation response over Australia and the physical drivers linking the polar ocean with extratropical atmospheric change.
 
-SOFIA *antwater* experiment included for the following models:
-- access-esm1-5
-- canesm5
-- cesm2
-- foci
-- gfdl-cm4
-- gfdl-esm4
-- giss-e2-1-g
-- hadgem3-gc31-ll
+SOFIA *antwater* models included in analysis:
+- ACCESS-CM2
+- ACCESS-ESM1-5
+- AWI-ESM-1-REcoM
+- CanESM5
+- CESM2
+- EC-EARTH3
+- FOCI
+- GFDL-CM4
+- GFDL-ESM4
+- GISS-E2-1-G
+- HadGEM3-GC31-LL
 
-Some research questions:
-- Does variability in tropical Pacific change and does it have an impact on Australia?
-- Patterns of change:
-  - is it model dependent or vary between ensembles?
-  - does each model warm and cool the same way when compared with ssp585 runs? (I.e. is the antwater response the "opposite" to the warming response?)
-- Comparison of antwater response to climate sensitivity of each model.
-- How does the cooling over Australia relate to the cooling response over the Southern Ocean? (larger cooling for stronger SO response?)
-- Seasonal and regional response.
